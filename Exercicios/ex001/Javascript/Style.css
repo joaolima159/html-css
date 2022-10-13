@@ -1,0 +1,51 @@
+header {
+    padding-bottom: 50px;
+    background-image: linear-gradient(to left, rgb(112, 0, 112), purple, rgb(0, 0, 0));
+
+}
+header > h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    text-shadow: 2 2 2 black;
+}
+header > p {
+    text-align: center;
+    font-size: 25px;
+}
+.container {
+    width: 600px;
+    padding-top: 40px;
+    
+}
+.clear {
+    height: 30px;
+    font-size: 20px;
+    width: 175px
+
+}
+
+#resultado {
+    height: 25px;
+    width: 270px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+input {
+   
+    display: flexbox ;
+    font-family:fantasy;
+    font-size: 20px;
+    height: 40px;
+    width: 150px;
+    margin: 2px;
+    position:static;
+    background-image: linear-gradient(to right, black);
+    
+}
+.keys {
+    border: 1px 1px 1px  tomato;
+    box-shadow: 1px 1px 1px black;
+}

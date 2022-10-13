@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: blueviolet;
+}
+
+h1#Principal {
+    color: black;
+} 
+.segundo {
+    color: blueviolet;
+    background-color: aqua;
+   height: 50px;
+   text-align: center; 
+}
